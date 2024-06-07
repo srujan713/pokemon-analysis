@@ -7,3 +7,8 @@ The Pokémon Data Analysis project aims to explore and analyze data related to P
  - Data Transformation: Convert and clean JSON data into a Pandas DataFrame.
  - EDA: Explore data distributions, correlations, and common abilities.
  - Visualization: Use Matplotlib and Seaborn for insightful plots.
+
+## Goals
+ - Discover trends and patterns in Pokémon data.
+ - Showcase data analysis techniques.
+ - Provide a comprehensive Pokémon data analysis.
